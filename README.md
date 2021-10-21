@@ -1,7 +1,7 @@
 ### Olá eu sou o Brendon ALex
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando spring boot
+- 🔭 Hoje trabalho com Java
+- 🌱 Estudando spring boot e angular
 
 <div align="center">
   <a href="https://github.com/brendongama">
