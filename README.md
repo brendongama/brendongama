@@ -1,7 +1,8 @@
 ### Olá eu sou o Brendon ALex
 
 - 🔭 Hoje trabalho com Java
-- 🌱 Estudando spring boot e angular
+- 🌱 Estudando spring e Rest: Curso Especialista Spring REST da algaWorks
+- Repositório do código que estou reaizando no curso: https://github.com/brendongama/algafood
 
 <div align="center">
   <a href="https://github.com/brendongama">
